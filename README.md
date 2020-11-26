@@ -1,1 +1,1 @@
-# yii-debug-smssender
+# yii-smssender
