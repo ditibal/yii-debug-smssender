@@ -31,7 +31,7 @@ return [
 ```php
 	Yii::$app->smsSender
 	    ->compose()
-	    ->setPhone('+79 (000) 000-00-00')
+	    ->setPhone('+7 (999) 000-00-00')
 	    ->setMessage('Сообщение')
 	    ->send();
 ```
