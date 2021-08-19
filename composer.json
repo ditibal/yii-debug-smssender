@@ -1,15 +1,23 @@
 {
     "name": "ditibal/yii2-smssender",
-    "description": "",
+    "description": "Extensions for sending sms via different services",
     "type": "yii2-extension",
     "keywords": [
-        "yii2"
+        "yii2",
+        "sms",
+        "sms-sender"
     ],
     "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Andrew Sergeev",
             "email": "ditibal@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
         }
     ],
     "require": {
