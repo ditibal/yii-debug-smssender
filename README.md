@@ -1,3 +1,7 @@
+# yii2-smssender
+
+[![Github Actions Status](https://github.com/ditibal/yii2-smssender/workflows/PHP%20CI/badge.svg)](https://github.com/ditibal/yii2-smssender/actions)
+
 Установка
 ------------
 
