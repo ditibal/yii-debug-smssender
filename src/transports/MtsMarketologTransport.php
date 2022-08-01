@@ -9,11 +9,11 @@ use yii\httpclient\Response;
 
 class MtsMarketologTransport extends Component
 {
-    public string $host = 'https://omnichannel.mts.ru/http-api/v1/';
-    public string $login;
-    public string $password;
-    public string $naming;
-    private string $auth;
+    public $host = 'https://omnichannel.mts.ru/http-api/v1/';
+    public $login;
+    public $password;
+    public $naming;
+    private $auth;
 
     public function init()
     {
